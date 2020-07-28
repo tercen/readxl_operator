@@ -1,5 +1,5 @@
 {
-  "name": "Excel import",
+  "name": "Excel",
   "description": "Convert excel document to tercen data set",
   "tags": ["excel", "import"],
   "authors": ["tercen"],

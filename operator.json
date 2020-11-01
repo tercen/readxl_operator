@@ -1,6 +1,6 @@
 {
   "name": "Excel",
-  "description": "Convert excel document to tercen data set",
+  "description": "Convert an Excel document to a Tercen data set. Files from Excel versions 2007 - 365 are accepted (.xlsx and .xlsm). Older .xls files are not supported.",
   "tags": ["excel", "import"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/readxl_operator"],

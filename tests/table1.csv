@@ -1,0 +1,70 @@
+"ds1.name","ds1.version","ds1.url","ds1.error","...5",".ci"
+"Antibodies Bound per Cell (ABC)","36526.0","https://github.com/tercen/Antibodies_Bound_per_Cell_operator.git","notest","NA",0
+"DESeq2","0.0.6","https://github.com/tercen/DESeq2_two_conditions_operator.git","notest","NA",0
+"RMSD","0.0.3","https://github.com/tercen/RMSD_operator.git","notest","NA",0
+"SAUCIE","0.0.5","https://github.com/tercen/SAUCIE_docker_operator.git","notest","NA",0
+"SNNGraphClustering_operator","0.0.1","https://github.com/tercen/SNNGraphClustering_operator.git","notest","NA",0
+"TCRMatch","0.0.3","https://github.com/tercen/TCRMatch_docker_operator.git","notest","NA",0
+"tracer","0.0.1","https://github.com/tercen/TraCeR_docker_operator.git","notest","NA",0
+"Add","0.0.2","https://github.com/tercen/add_operator.git","notest","DONE",0
+"MSA Metrics","0.0.3","https://github.com/tercen/alignment_metrics_operator.git","notest","NA",0
+"A-tSNE","40909.0","https://github.com/tercen/atsne_docker_operator.git","notest","NA",0
+"A-tSNE","40909.0","https://github.com/tercen/atsne_operator.git","notest","NA",0
+"Chi-squared test","0.0.2","https://github.com/tercen/chisquare_test_operator.git","notest","NA",0
+"Clustering Metrics","0.0.3","https://github.com/tercen/clustering_metrics_operator.git","notest","NA",0
+"Hclust Tree","36526.0","https://github.com/tercen/clustering_tree_operator.git","notest","NA",0
+"Concatenate","0.0.2","https://github.com/tercen/concatenate_operator.git","notest","DONE",0
+"cytonorm","1.0.3","https://github.com/tercen/cytonorm_operator.git","notest","NA",0
+"Diffcyt","0.0.4","https://github.com/tercen/diffcyt_operator.git","notest","NA",0
+"Alignment Distance","36526.0","https://github.com/tercen/dist_alignment_operator.git","notest","NA",0
+"Downsample","36892.0","https://github.com/tercen/downsample_operator.git","notest","DONE",0
+"FIt-SNE","0.0.4","https://github.com/tercen/fast_tSNE_operator.git","notest","NA",0
+"Flag Condition","36528.0","https://github.com/tercen/flag_operator.git","notest","NA",0
+"FlowAI","36528.0","https://github.com/tercen/flowai_operator.git","notest","1.0",0
+"FlowClean","36529.0","https://github.com/tercen/flowclean_operator.git","notest","1.0",0
+"FlowSOM Tuning","0.0.4","https://github.com/tercen/flowsomtuning_operator.git","notest","NA",0
+"Join Genome","0.0.2","https://github.com/tercen/genome_join_operator.git","notest","NA",0
+"GSEA","0.0.2","https://github.com/tercen/gsea_operator.git","notest","NA",0
+"Hclust - Groups","0.0.2","https://github.com/tercen/hierarchical_clustering_operator.git","notest","NA",0
+"Histogram Plot","0.0.2","https://github.com/tercen/histogram_operator.git","notest","NA",0
+"Impute - Zero","36528.0","https://github.com/tercen/impute_operator.git","notest","NA",0
+"Join GFF","0.0.5","https://github.com/tercen/join_GFF_operator.git","notest","NA",0
+"Mean R operator","36527.0","https://github.com/tercen/keidenn_operator.git","notest","delete",0
+"Kinetic QC","0.0.1","https://github.com/tercen/kineticQC_operator.git","notest","NA",0
+"Lagpad","0.0.2","https://github.com/tercen/lagpad_operator.git","notest","NA",0
+"LOESS","0.0.2","https://github.com/tercen/loess_smoothing_operator.git","notest","NA",0
+"Logistic Regression","0.0.2","https://github.com/tercen/logistic_regression_operator.git","notest","NA",0
+"Logit","36528.0","https://github.com/tercen/logit_operator.git","notest","NA",0
+"Max","36526.0","https://github.com/tercen/max_operator.git","notest","DONE",0
+"MDS","36526.0","https://github.com/tercen/mds_operator.git","notest","NA",0
+"Impute - Mean","0.0.4","https://github.com/tercen/mean_imputation_operator.git","notest","1.0",0
+"Mean and SD","36526.0","https://github.com/tercen/mean_sd_operator.git","notest","DONE",0
+"Scale Min/Max","0.0.2","https://github.com/tercen/minmax_scale_operator.git","notest","NA",0
+"MSA","36559.0","https://github.com/tercen/msa_operator.git","notest","NA",0
+"Multiple Testing","0.0.2","https://github.com/tercen/multiple_testing_operator.git","notest","NA",0
+"Multiply","0.0.1","https://github.com/tercen/multiply_operator.git","notest","DONE",0
+"Neighbourhood Analysis","0.0.4","https://github.com/tercen/neighbourhood_operator.git","notest","NA",0
+"Pairwise Distance","36526.0","https://github.com/tercen/pairwise_distance_operator.git","notest","NA",0
+"PCA","36892.0","https://github.com/tercen/pca_operator.git","notest","1.0",0
+"Percentile","36526.0","https://github.com/tercen/percentile_operator.git","notest","NA",0
+"Product","0.0.5","https://github.com/tercen/product_operator.git","notest","DONE",0
+"Proportion Analysis","0.0.2","https://github.com/tercen/proportion_operator.git","notest","NA",0
+"Q-Q Plot","0.0.2","https://github.com/tercen/qqplot_operator.git","notest","NA",0
+"Random Label","1.0.1","https://github.com/tercen/randomlabel_operator.git","notest","DONE",0
+"AnnotatedDataFrame","36526.0","https://github.com/tercen/readAnnotatedDataFrame_operator.git","notest","NA",0
+"STRAF","36527.0","https://github.com/tercen/read_STRAF_operator.git","notest","NA",0
+"FASTA","36529.0","https://github.com/tercen/read_fasta_operator.git","notest","NA",0
+"GMT","0.0.4","https://github.com/tercen/read_gmt_operator.git","notest","NA",0
+"RDS","0.0.2","https://github.com/tercen/readrds_operator.git","notest","NA",0
+"Excel","37257.0","https://github.com/tercen/readxl_operator.git","notest","1.0",0
+"Replace","0.0.3","https://github.com/tercen/replace_operator.git","notest","DONE",0
+"Round","36526.0","https://github.com/tercen/round_operator.git","notest","DONE",0
+"Separate","0.0.3","https://github.com/tercen/separate_operator.git","notest","DONE",0
+"Sequence to Table","0.0.3","https://github.com/tercen/seq2table_operator.git","notest","NA",0
+"Sequence Length","0.0.2","https://github.com/tercen/seqlen_operator.git","notest","DONE",0
+"Square Root","36527.0","https://github.com/tercen/sqrt_operator.git","notest","DONE",0
+"Top (N)","0.0.4","https://github.com/tercen/topn_operator.git","notest","DONE",0
+"TrimGalore","0.0.1.9","https://github.com/tercen/trimgalore_docker_operator.git","notest","NA",0
+"VSN","0.0.3","https://github.com/tercen/vsn_operator.git","notest","NA",0
+"Word Count","1.0.2","https://github.com/tercen/wordcount_operator.git","notest","1.0",0
+"XSHIFT","0.0.6","https://github.com/tercen/xshift_docker_operator.git","notest","NA",0

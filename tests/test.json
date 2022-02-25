@@ -2,7 +2,7 @@
   "kind": "OperatorUnitTest",
   "name": "read xls",
   "namespace": "ds0",
-  "inputFileUris": ["excel.zip"],
+  "inputFileUris": ["example.zip"],
   "inputDataUri": "input.csv",
   "outputDataUri": ["table1.csv","table2.csv"],
   "columns": ["documentId"],

@@ -2,11 +2,14 @@
 
 ##### Description
 
+`read_xlsx` operator transforms excel files to Tercen datasets.
+
 ##### Usage
 
 Input projection|.
 ---|---
-`row`        | is the documentId 
+`documentId`        | is the documentId 
+
 
 Output relations|.
 ---|---

@@ -4,7 +4,14 @@
   "tags": ["excel", "import"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/readxl_operator"],
-  "properties": []
+  "properties": [
+    {
+      "kind": "DoubleProperty",
+      "name": "sheet",
+      "defaultValue": 1,
+      "description": "Sheet to read (position / index of the sheet). Default is 1."
+    }
+  ]
 }
 
 

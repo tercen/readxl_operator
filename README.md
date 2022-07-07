@@ -11,17 +11,11 @@ Input projection|.
 `documentId`        | is the documentId 
 
 
-Output relations|.
+Input parameters|.
 ---|---
+`sheet`        | Sheet to read (position / index of the sheet). Default is 1.
  
 
 ##### Details
-The operator import excel document to tercen.
 
-#### References
-
-
-##### See Also
-
-
-#### Examples
+The operator import an Excel document into Eercen.

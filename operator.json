@@ -1,6 +1,6 @@
 {
   "name": "Excel",
-  "description": "Import file from Excel 2007-365 (.xlsx, .xlsm).",
+  "description": "Imports file from Excel 2007-365 (.xlsx, .xlsm).",
   "tags": [
     "import"
   ],

@@ -39,6 +39,31 @@
         ]
       }
     ],
-    "outputSpecsV2": []
+    "outputSpecsV2": [
+      {
+        "kind": "OperatorJoinSpec",
+        "description": "Dynamic columns from Excel sheet content",
+        "joinOperators": [
+          {
+            "kind": "JoinOperator",
+            "joinType": "left",
+            "leftPair": {
+              "kind": "ColumnPair",
+              "lColumns": [
+                "Document ID"
+              ],
+              "rColumns": [
+                "Document ID"
+              ]
+            },
+            "rightRelation": {
+              "kind": "TableRelation",
+              "description": "Columns dynamically loaded from Excel file",
+              "attributes": []
+            }
+          }
+        ]
+      }
+    ]
   }
 }

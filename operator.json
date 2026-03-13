@@ -58,7 +58,9 @@
             },
             "rightRelation": {
               "kind": "TableRelation",
-              "description": "Columns dynamically loaded from Excel file",
+              "meta_data": [
+                {"kind": "Pair", "key": "allowAdditionalAttributes", "value": "true"}
+              ],
               "attributes": []
             }
           }
